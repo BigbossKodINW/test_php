@@ -12,7 +12,7 @@ $score = 50 ;
 
 if($score > 10)
 {
-    echo "You right. ".$score ;
+    echo "You right. ohho ".$score ;
 }
 else
 {
