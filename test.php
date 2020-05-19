@@ -16,7 +16,7 @@ if($score > 10)
 }
 else
 {
-    echo "You wrong." ;
+    echo "You wrong WOW." ;
 }
 
 ?>
